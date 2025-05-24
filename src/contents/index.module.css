@@ -1,0 +1,13 @@
+.extensionVerify{
+    background-color: rgb(58, 123, 52);
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: .5rem;
+    height: 20px;
+    width: 20px;
+    border-radius: 15px;
+}
+.product-card{
+    position: relative;
+}
